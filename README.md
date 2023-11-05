@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ggenelot
 - 👀 I’m interested in urbanism, data science, geographic information systems, python, machine learning, open source softwares
-- 🌱 I’m currently learning economics and geography in undergraduate level in France
+- 🌱 I’m currently learning economics and geography in graduate level in France
 
 
 <!---
